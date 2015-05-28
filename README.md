@@ -1,2 +1,3 @@
 # CompactDeBruijn
-comparison of the size of De bruijn and Sequence Graps
+
+comparison of the size of Debruijn Graph and its compact form- Sequence Graph
